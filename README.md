@@ -1,4 +1,5 @@
 🌊 Coral Reef Health Assessment and Forecasting – Florida Keys Data Challenge
+
 This project analyzes coral reef health in the Florida Keys National Marine Sanctuary, leveraging datasets from the Coral Reef Evaluation and Monitoring Project (CREMP). It was developed as part of the Conch Republic Coral Quest - Florida Keys Data Challenge, aiming to predict ecological trends using long-term biological and environmental data.
 
 📌 Project Objectives
