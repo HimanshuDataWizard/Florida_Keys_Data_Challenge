@@ -85,21 +85,3 @@ Due to GitHub's file size limitations, the full CREMP dataset (ZIP ~50MB) is hos
 </ul>
 
 <hr>
-
-<h2>📘 Report & Results</h2>
-<ul>
-  <li>📄 <strong>Full Report (PDF):</strong> <a href="https://github.com/HimanshuDataWizard/Florida_Keys_Data_Challenge/blob/main/Coral%20Reef%20Health%20Assessment%20and%20Forecasting%20Report.pdf" target="_blank">Download</a></li>
-  <li>📓 <strong>Notebook:</strong> <a href="https://github.com/HimanshuDataWizard/Florida_Keys_Data_Challenge/blob/main/Florida_Keys_Data_Challenge.ipynb" target="_blank">View Code & Analysis</a></li>
-  <li>📊 <strong>Figures:</strong> All plots are stored in <code>/figures/</code> and embedded in the report</li>
-</ul>
-
-<hr>
-
-<h2>🔗 GitHub Repository</h2>
-<p>
-👉 <a href="https://github.com/HimanshuDataWizard/Florida_Keys_Data_Challenge" target="_blank"><strong>Florida_Keys_Data_Challenge</strong></a>
-</p>
-
-<hr>
-
-<h4>🎯 This project was completed as a competition entry for the <em>Conch Republic Coral Quest</em>.</h4>
